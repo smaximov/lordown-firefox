@@ -1,0 +1,20 @@
+{
+    "title": "Lordown",
+    "name": "lordown-firefox",
+    "version": "0.1.2",
+    "description": "Markdown to Lorcode converter: Firefox interface",
+    "main": "index.js",
+    "author": "Sergei Maximov <s.b.maximov@gmail.com>",
+    "engines": {
+	"firefox": ">=38.0a1"
+    },
+    "license": "MIT",
+    "keywords": [
+	"jetpack"
+    ],
+    "preferences": [{
+	"name": "lordownPath",
+	"type": "file",
+	"title": "Lordown executable"
+    }]
+}

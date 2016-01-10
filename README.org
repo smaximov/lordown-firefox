@@ -1,0 +1,8 @@
+#+TITLE: Lordown-firefox
+#+AUTHOR: Sergei Maximov
+#+EMAIL: s.b.maximov@gmail.com
+#+DATE: 2016-01-10 Sun
+
+Lordown-firefox — это расширение для Firefox, которое переводит разметку в
+формате Markdown в используемый на сайте [[https://linux.org.ru][LOR]] Lorcode путём вызова внешней программы
+[[https://github.com/smaximov/lordown][Lordown]] (путь можно указать в настройках дополнения).
