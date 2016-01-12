@@ -1,3 +1,4 @@
+/* eslint-env browser */
 const commentForm = document.getElementById('commentForm')
 const msg = document.getElementById('msg')
 

@@ -1,3 +1,4 @@
+/* eslint-env node */
 const { data } = require('sdk/self')
 const { PageMod } = require('sdk/page-mod')
 const { exec } = require('sdk/system/child_process')
